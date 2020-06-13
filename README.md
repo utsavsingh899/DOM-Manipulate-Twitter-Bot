@@ -13,5 +13,5 @@ A simple Twitter Bot that I made which likes tweets which contain a specific str
 4. **Geckodriver**: Proxy for using W3C WebDriver compatible clients to interact with Gecko-based browsers. This program provides the HTTP API described by the WebDriver protocol to communicate with Gecko browsers, such as Firefox. It translates calls into the Marionette remote protocol by acting as a proxy between the local- and remote ends.
 ### Contact Me:
 * [Email](mailto:utsavsingh899@gmail.com)
-* [Instagram](https://www.instagram.com/us_codes/)
+* [Instagram](https://www.instagram.com/utsavsingh899/)
 * [Facebook](https://www.facebook.com/utsav.singh.581)
