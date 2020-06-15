@@ -2,7 +2,7 @@
 A simple Twitter Bot that I made which likes tweets which contain a specific string or hashtag. Feel feel to improvise and give advises.
 ## Technical Description:
 * A simple bot written in python which makes use of selenium library and geckodriver for Mozilla FireFox.
-* The operaions are done by the manipulation of DOM(Document Object Model) elements of the web page.
+* The operations are done by the manipulation of DOM(Document Object Model) elements of the web page.
 * **NOTE:** This may cause your account to be blocked by Twitter or you may see a re-captcha if it detects that you're automating(botting) and not a real human.
 * The sleep times should be relaxed if the above happens.
 * Please use a spare account because this is all experimental.
